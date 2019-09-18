@@ -9,6 +9,8 @@
 
 .navbar-brand {
 font-size: 60px;
+
+
 }
 
 .author-col {
@@ -24,11 +26,13 @@ font-size: 60px;
     min-width: 7em;
   }
 
-  .navbar-brand {
-font-size: 60px;
-}
+  
 
-.fas {
+.important {
 color: red;
 }
 
+.spy  {
+  color:gray;
+  
+}
