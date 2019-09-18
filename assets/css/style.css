@@ -36,3 +36,8 @@ color: red;
   color:gray;
   
 }
+
+body {
+  min-height: 100vh; 
+} 
+
