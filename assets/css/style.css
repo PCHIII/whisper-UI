@@ -4,7 +4,7 @@
 
   .created-col,
   .last-post-col {
-    min-width: 12em;
+    min-width: 11em;
   }
 
 .navbar-brand {
@@ -20,7 +20,7 @@ font-size: 60px;
   }
 
   .details-col {
-    min-width: 8em;
+    min-width: 7em;
   }
 
   .navbar-brand {
