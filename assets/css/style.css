@@ -19,6 +19,10 @@ font-size: 60px;
     min-width: 20em;
   }
 
+  .details-col {
+    min-width: 8em;
+  }
+
   .navbar-brand {
 font-size: 60px;
 }
